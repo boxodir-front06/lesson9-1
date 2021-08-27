@@ -1,13 +1,30 @@
 .box1 {
-  height: 400px;
   text-align: center;
 }
 
 .box1 h1 {
   padding-top: 20px;
+  font-size: 25px;
+}
+
+.box1 h2 {
+  font-size: 20px;
 }
 
 .box1 p {
-  padding-top: 20px;
+  padding-top: 10px;
+}
+
+.box1 i {
+  font-size: 30px;
+  color: white;
+}
+img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  margin-top: 20px;
 }
 /*# sourceMappingURL=main.css.map */
